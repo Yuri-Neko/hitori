@@ -1540,6 +1540,7 @@ module.exports = naze = async (naze, m, chatUpdate, store) => {
 ╭─┴❍「 *AI* 」❍
 │${setv} ${prefix} ai (query)
 │${setv} ${prefix} gpt (query)
+│${setv} ${prefix} emi (prompt)
 ╰─┬────❍
 ╰─┬────❍
 ╭─┴❍「 *GAME* 」❍
