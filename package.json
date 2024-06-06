@@ -24,7 +24,7 @@
   "author": "Nazedev",
   "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys" : "latest",
+    "@whiskeysockets/baileys" : "github:nstar-y/bail",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@develoka/angka-terbilang-js": "^1.4.2",
     "@hapi/boom": "^10.0.0",
