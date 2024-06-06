@@ -59,6 +59,8 @@ const { formatp, tanggal, formatDate, getTime, isUrl, sleep, clockString, runtim
 const kuismath = [];
 const sewa = JSON.parse(fs.readFileSync('./database/sewa.json'));
 const premium = JSON.parse(fs.readFileSync('./database/premium.json'));
+const autoDonwload = JSON.parse(fs.readFileSync('./database/autodl.json'))
+
 
 module.exports = naze = async (naze, m, chatUpdate, store) => {
   try {
